@@ -1,4 +1,24 @@
 # Employee Management System
+## 🌐 Live Demo
+
+* **Live Application:** https://employee-management-system-bay-theta.vercel.app/
+* **Backend API:** https://employee-management-system-b9sz.onrender.com/api/v1/employees
+
+## ✨ Features
+
+* Create, view, update, and delete employees.
+* Search and filter employee records.
+* View employee statistics on the dashboard.
+* Store employee information in a MySQL database.
+* Access the application online from anywhere.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React, Vite, JavaScript
+* **Backend:** Java, Spring Boot, Spring Data JPA
+* **Database:** MySQL
+* **Deployment:** Vercel, Render, Aiven
+* **Version Control:** Git, GitHub
 
 A full-stack web application for managing employee records, built using Spring Boot, React, and MySQL.
 
