@@ -2,6 +2,11 @@
 
 A full-stack web application for managing employee records, built using Spring Boot, React, and MySQL.
 
+## Application Screenshot
+
+![Employee Management System Dashboard](screenshots/employee-dashboard.png)
+
+
 ## Overview
 
 The Employee Management System allows users to manage employee information through a web interface. It provides REST APIs for employee operations and stores employee records in a MySQL database.
