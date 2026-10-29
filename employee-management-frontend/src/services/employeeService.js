@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/api/v1/employees";
+const API_URL = "https://employee-management-system-b9sz.onrender.com/api/v1/employees";
 
 // GET ALL
 export const getEmployees = async () => {
