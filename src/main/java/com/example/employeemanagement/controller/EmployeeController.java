@@ -10,7 +10,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/v1/employees")
-@CrossOrigin(origins = {"http://localhost:5173"})
+@CrossOrigin(origins = {"http://localhost:5173","https://employee-management-system-bay-theta.vercel.app"})
 public class EmployeeController {
 
     private final EmployeeService employeeService;
