@@ -44,7 +44,7 @@ build/
 
 # Keep local database credentials out of Git
 
-src/main/resources/application.properties
+#src/main/resources/application.properties
 
 # React frontend files
 node_modules/
